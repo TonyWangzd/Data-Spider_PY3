@@ -1,0 +1,11 @@
+LM Issue : # 83729 Collect the top news from Sina
+Purpose : Collect the top news from Sina
+See : https://bn-fbdb01.nuance.com/f/cases/83729/
+Program Location : /lm/scratch/lmbuild1/repositories/p4/spider/projects/scrapers/news_sina_com_cn.py.py
+Description : Collect the top news from Sina
+Program usage : python3.3 news_sina_com_cn.py
+<<NOTE>>
+Frequency : Daily
+Output location :
+/lm/data2/scrapers/zho-CHN/news/news.sina.com/text-train.inc
+Log File :
